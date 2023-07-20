@@ -1,0 +1,36 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 06 Jul 2023 15:58:43 at https://uigator.com/assan/5.1/public/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "fr, en, *" https://uigator.com/assan/5.1/public/index.html -O1 "C:\Users\HIGH-TECH CORP'S\Desktop\all\assan\assan" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:14:57	Warning: 	Retry after error -4 (Connect Error) at link https://uigator.com/assan/5.1/public/assets/img/avatar/1.jpg (from https://uigator.com/assan/5.1/public/index-landing-classic.html)
+16:14:58	Warning: 	Retry after error -4 (Connect Error) at link https://uigator.com/assan/5.1/public/assets/img/backgrounds/trans3.png (from https://uigator.com/assan/5.1/public/index-landing-startup.html)
+16:14:59	Error: 	"Not Found" (404) at link https://uigator.com/assan/5.1/public/mailus@domain.com (from https://uigator.com/assan/5.1/public/index-landing-consultancy.html)
+16:15:00	Error: 	"Not Found" (404) at link https://uigator.com/assan/5.1/public/assets/img/brands/facebook.svg (from https://uigator.com/assan/5.1/public/blog-article-basic.html)
+16:15:00	Error: 	"Not Found" (404) at link https://uigator.com/assan/5.1/public/assets/img/brands/twitter.svg (from https://uigator.com/assan/5.1/public/blog-article-basic.html)
+16:16:06	Warning: 	Retry after error -4 (Connect Error) at link https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.css (from https://uigator.com/assan/5.1/public/page-contact-us-2.html)
+16:16:06	Warning: 	Retry after error -4 (Connect Error) at link https://uigator.com/assan/5.1/public/assets/img/brands/GitHub.svg (from https://uigator.com/assan/5.1/public/component-card-icon.html)
+16:16:06	Warning: 	Retry after error -4 (Connect Error) at link https://uigator.com/assan/5.1/public/assets/img/partners/spotify.svg (from https://uigator.com/assan/5.1/public/component-clients.html)
+16:16:11	Warning: 	Retry after error -4 (Connect Error) at link https://img.youtube.com/vi/V_romThfA0I/maxresdefault.jpg (from https://uigator.com/assan/5.1/public/component-lightbox.html)
+16:16:12	Warning: 	Retry after error -4 (Connect Error) at link https://uigator.com/assan/5.1/public/assets/vendor/masterslider/skins/minimal/style.css (from https://uigator.com/assan/5.1/public/hero-slider-master-alt.html)
+16:16:56	Warning: 	Retry after error -4 (Connect Error) at link https://uigator.com/assan/5.1/public/assets/img/shop/banners/men.jpg (from https://uigator.com/assan/5.1/public/demo-shop.html)
+16:16:56	Warning: 	Retry after error -4 (Connect Error) at link https://uigator.com/assan/5.1/public/assets/img/shop/products/04.jpg (from https://uigator.com/assan/5.1/public/demo-shop.html)
+16:16:56	Warning: 	Retry after error -4 (Connect Error) at link https://uigator.com/assan/5.1/public/assets/img/shop/products/05.jpg (from https://uigator.com/assan/5.1/public/demo-shop.html)
+16:17:12	Warning: 	Retry after error -4 (Connect Error) at link https://uigator.com/assan/5.1/public/assets/img/estate/cities/liverpool.jpg (from https://uigator.com/assan/5.1/public/demo-real-estate.html)
+16:17:13	Warning: 	Retry after error -4 (Connect Error) at link https://unpkg.com/filepond/dist/filepond.css (from https://uigator.com/assan/5.1/public/page-profile-settings.html)
+16:17:13	Warning: 	Retry after error -4 (Connect Error) at link https://unpkg.com/filepond-plugin-image-preview/dist/filepond-plugin-image-preview.css (from https://uigator.com/assan/5.1/public/page-profile-settings.html)
+16:17:14	Warning: 	Retry after error -4 (Connect Error) at link https://unpkg.com/filepond-plugin-image-preview/dist/filepond-plugin-image-preview.js (from https://uigator.com/assan/5.1/public/page-profile-settings.html)
+16:17:15	Error: 	"Not Found" (404) at link https://img.youtube.com/vi/V_romThfA0I/maxresdefault.jpg (from https://uigator.com/assan/5.1/public/component-lightbox.html)
+16:17:15	Warning: 	Retry after error -4 (Connect Error) at link https://uigator.com/assan/5.1/public/assets/img/shop/single4.jpg (from https://uigator.com/assan/5.1/public/demo-shop-product-default.html)
+16:17:15	Warning: 	Found for https://unpkg.com/filepond/dist/filepond.css
+16:17:15	Warning: 	Warning moved treated for https://unpkg.com/filepond/dist/filepond.css (real one is https://unpkg.com/filepond@4.30.4/dist/filepond.css)
+16:17:15	Warning: 	Found for https://unpkg.com/filepond-plugin-image-preview/dist/filepond-plugin-image-preview.css
+16:17:15	Warning: 	Warning moved treated for https://unpkg.com/filepond-plugin-image-preview/dist/filepond-plugin-image-preview.css (real one is https://unpkg.com/filepond-plugin-image-preview@4.6.11/dist/filepond-plugin-image-preview.css)
+16:17:16	Warning: 	Found for https://unpkg.com/filepond-plugin-image-preview/dist/filepond-plugin-image-preview.js
+16:17:16	Warning: 	Warning moved treated for https://unpkg.com/filepond-plugin-image-preview/dist/filepond-plugin-image-preview.js (real one is https://unpkg.com/filepond-plugin-image-preview@4.6.11/dist/filepond-plugin-image-preview.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 18 minutes 36 seconds : 588 links scanned, 565 files written (91929924 bytes overall) [63548016 bytes received at 56942 bytes/sec], 36685426 bytes transferred using HTTP compression in 429 files, ratio 21%, 6.8 requests per connection
+(4 errors, 21 warnings, 0 messages)
